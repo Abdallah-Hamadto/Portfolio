@@ -9,6 +9,13 @@ export const testimonialSlider = [
   },
   {
     image: "/t-avt-2.png",
+    name: "Ahmed Mohsen Hamadto",
+    position: "Doctor",
+    message:
+      "Great work, I wish you good luck and success.",
+  },
+  {
+    image: "/t-avt-4.png",
     name: "Abdallah Elsayed",
     position: "Software engineer",
     message:
